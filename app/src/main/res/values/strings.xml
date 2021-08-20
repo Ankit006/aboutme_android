@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">silver</string>
+    <string name="yellow_start">yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Fusce commodo vitae arcu egestas pulvinar. Nulla facilisi.
+        Sed tincidunt lacus est, id dapibus neque posuere quis.
+        Mauris auctor iaculis orci, id dapibus enim auctor a.
+        Donec sed tristique dolor.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+        Mauris vitae ultrices neque, eu dictum odio. Etiam varius et risus id efficitur.
+        Donec quis bibendum mauris.
+        Integer id consectetur massa. Cras vestibulum ultricies odio, facilisis euismod sem dictum sit amet.
+        Pellentesque hendrerit erat ut est ornare gravida.
+    </string>
+    <string name="what_is_your_nick_name">what is your nick name?</string>
+    <string name="Done">Done</string>
+</resources>
